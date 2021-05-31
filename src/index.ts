@@ -23,6 +23,7 @@ export * from "./events/ticket-updated-event";
 // order
 export * from "./events/order-created-event";
 export * from "./events/order-cancelled-event";
+export * from "./events/order-completed-event";
 export * from "./events/expiration-complete-event";
 // payment
 export * from "./events/payment-created-event";
