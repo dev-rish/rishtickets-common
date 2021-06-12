@@ -1,5 +1,5 @@
 # rishtickets-common
-[![npm package](https://img.shields.io/badge/npm-1.2.0-brightgreen.svg)][NPM]
+[![npm package](https://img.shields.io/badge/npm-1.2.0-brightgreen.svg)][NPM]\
 This is a support module for [Ticketing] project.
 
 ## License
